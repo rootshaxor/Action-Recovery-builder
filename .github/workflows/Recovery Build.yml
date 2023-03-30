@@ -35,7 +35,7 @@ on:
         default: 'OP4C7D'
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
-        required: true
+        required: false
         default: 'twrp_OP4C7D'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
